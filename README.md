@@ -21,8 +21,10 @@
     <video width="320" height="240" controls>
       <source src="assets/videos/short_list_demo.mp4" type="video/mp4">
   Video Demo
-    </video>    
+    </video>
+
 -- Airbnb House Price Prediction Model      
 ![AirBnb Price Prediction](/assets/img/Airbnb.png)    
+<img src="/assets/img/Airbnb.png" alt="Airbnb" class="airbnb">
 -- Java Yahtzee DB Socket Project   
 -- Airbnb DataBase SQL Python Streamlit Project
