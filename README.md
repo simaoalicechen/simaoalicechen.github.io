@@ -10,14 +10,14 @@
 -- B.A., Math and Political Science (double major) | Hamilton College   
 
 ## Work Experience 
-Student Data Engineer | New York University   
-Software Engineering/Machine Learning Intern | SuperFun   
-Graduate Assistant | New York University    
+-- Student Data Engineer | New York University   
+-- Software Engineering/Machine Learning Intern | SuperFun   
+-- Graduate Assistant | New York University    
 
 ## Projects
-- Generative Adversarial Network training on CelebA
-- ResNet Models to train and test on CIFAR-10 image datasets for a Kaggle Competition
-- High School Finder App “Shortlist” – Python, Vue, Django
-- Airbnb House Price Prediction Model
-- gcivil-nyu-org/team-2-inperson
-- Java_Yahtzee_DB_Socket_Project 
+-- Generative Adversarial Network training on CelebA  
+-- ResNet Models to train and test on CIFAR-10 image datasets for a Kaggle Competition      
+-- High School Finder App “Shortlist” – Python, Vue, Django    
+-- Airbnb House Price Prediction Model      
+-- gcivil-nyu-org/team-2-inperson   
+-- Java_Yahtzee_DB_Socket_Project   
