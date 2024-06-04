@@ -10,9 +10,9 @@
 -- B.A., Math and Political Science (double major) | Hamilton College   
 
 ## Work Experience 
-**Student Data Engineer | New York University**   
-**Software Engineering/Machine Learning Intern | SuperFun**   
-**Graduate Assistant | New York University**    
+Student Data Engineer | New York University   
+Software Engineering/Machine Learning Intern | SuperFun   
+Graduate Assistant | New York University    
 
 ## Projects
 - Generative Adversarial Network training on CelebA
