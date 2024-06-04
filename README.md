@@ -15,14 +15,13 @@
 -- Graduate Assistant | New York University    
 
 ## Projects
--- Generative Adversarial Network training on CelebA  
+-- Generative Adversarial Network training on CelebA      
 -- ResNet Models to train and test on CIFAR-10 image datasets for a Kaggle Competition      
-
 -- High School Finder App “Shortlist” – Python, Vue, Django    
     <video width="320" height="240" controls>
       <source src="assets/videos/short_list_demo.mp4" type="video/mp4">
   Video Demo
-    </video>
+    </video>    
 -- Airbnb House Price Prediction Model      
 ![AirBnb Price Prediction](/assets/img/Airbnb.png)    
 -- Java Yahtzee DB Socket Project   
