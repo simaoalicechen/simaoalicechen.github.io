@@ -4,10 +4,10 @@
 
 
 ## Education 
--- Ph.D., Urban Systems (Data Science and Machine Learning) | New York University
--- M.S., Computer Science | New York University
--- M.S., Accounting | Fordham University
--- B.A., Math and Political Science (double major) | Hamilton College
+-- Ph.D., Urban Systems (Data Science and Machine Learning) | New York University   
+-- M.S., Computer Science | New York University   
+-- M.S., Accounting | Fordham University    
+-- B.A., Math and Political Science (double major) | Hamilton College   
 
 ## Work Experience 
 **Student Data Engineer | New York University**   
