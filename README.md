@@ -17,7 +17,13 @@
 ## Projects
 -- Generative Adversarial Network training on CelebA  
 -- ResNet Models to train and test on CIFAR-10 image datasets for a Kaggle Competition      
+
 -- High School Finder App “Shortlist” – Python, Vue, Django    
+    <video width="320" height="240" controls>
+      <source src="https://www.dropbox.com/scl/fi/o7w6une8sh4whr252326p/207722589-f8e59702-f2ea-4d16-824c-ddc8aee2221f.mp4?rlkey=srzuzew916c1a644dh7vscpj6&st=1corregv&dl=0" type="video/mp4">
+  Video Demo
+    </video>
 -- Airbnb House Price Prediction Model      
--- gcivil-nyu-org/team-2-inperson   
--- Java_Yahtzee_DB_Socket_Project   
+(/assets/img/Airbnb.png)
+-- Java Yahtzee DB Socket Project   
+-- Airbnb DataBase SQL Python Streamlit Project
