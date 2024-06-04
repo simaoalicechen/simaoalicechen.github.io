@@ -24,6 +24,6 @@
   Video Demo
     </video>
 -- Airbnb House Price Prediction Model      
-(/assets/img/Airbnb.png)
+![AirBnb Price Prediction](/assets/img/Airbnb.png)    
 -- Java Yahtzee DB Socket Project   
 -- Airbnb DataBase SQL Python Streamlit Project
