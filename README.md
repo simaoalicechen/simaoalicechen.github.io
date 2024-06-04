@@ -20,7 +20,7 @@
 
 -- High School Finder App “Shortlist” – Python, Vue, Django    
     <video width="320" height="240" controls>
-      <source src="https://www.dropbox.com/scl/fi/o7w6une8sh4whr252326p/207722589-f8e59702-f2ea-4d16-824c-ddc8aee2221f.mp4?rlkey=srzuzew916c1a644dh7vscpj6&st=1corregv&dl=0" type="video/mp4">
+      <source src="assets/videos/short_list_demo.mp4" type="video/mp4">
   Video Demo
     </video>
 -- Airbnb House Price Prediction Model      
