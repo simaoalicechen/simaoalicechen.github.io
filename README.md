@@ -51,16 +51,13 @@
 -- Developed a Q&A model for Airbnb rental prices using SQL and Python.    
 -- Analyzed and visualized housing data using StreamLit frontend functions help customers to identify critical pricing and neighborhood information to better prepare trips.    
 
-# About Me :fist:
+# About Me ✊
 
 ### Hobbies 
 -- Reading    
 -- Photography    
 -- Road Tripping    
--- Badminton or any other sports that make me active with team spirits    
--- Solo Running or Swimming: Brooklyn Beach Half Marathon, 2019; Skunk Cabbage Classic Half Marathon, 2018; Syracuse Empire Half Marathon 2017   
+-- Badminton or any other sports with team spirits    
+-- Running: Brooklyn Beach Half Marathon, 2019; Skunk Cabbage Classic Half Marathon, 2018; Syracuse Empire Half Marathon 2017   
 
-### Unusual skills
--- I never had a furry pet growing up, but now I can warm up to any dogs within 5 minutes.    
--- Because of an allergy, I was waked up very early each morning for 2 weeks in a row. And now, I am a morning person.    
 
