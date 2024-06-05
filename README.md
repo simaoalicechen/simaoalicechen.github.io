@@ -1,6 +1,7 @@
 # PhD Student at NYU Tandon 
 
-#### Technical Skills: Python, Pytorch, Sklearn, Web Development (Backend and frontend), SQL, Machine Learning, and Deep Learning
+#### Most relevant Technical Skills: Python, Pytorch, Sklearn, SQL, Machine Learning, and Deep Learning   
+#### Others: Web Development (Java, Vue3), C, C++, AWS, React, Django 
 
 ## Education
 - Ph.D., Urban Systems (Data Science and Machine Learning) | New York University   					       		
@@ -10,14 +11,14 @@
 
 ## Work Experience 
 **Student Data Engineer | New York University**
--- Imported university-wide survey data from database into python scripts, notebook, Tableau, and Excel
--- Wrote Python Scripts to clean NYU Alumni employment datasets and analyze Alumni’s recent career trajectory
-**Software Engineering/Machine Learning Intern | SuperFun, Chengdu, China**
--- Employed Linear Regression, Decision Trees, Random Forest, and SVM techniques to analyze ICU patients' post-surgical recovery data, enhancing understanding of recovery predictors.
--- Partnered with an Emergency Room physician to analyze data and co-author a section of the hospital’s post-surgery patient care handbook, improving patient outcomes.
--- Worked on a project close to the company's actual multi-functional SaaS platform for a diverse team, optimizing food ordering, ingredient purchasing, and delivery processes. Technologies used include Spring Boot, Maven, Redis, MyBatis, and Nacos.
-**Graduate Assistant | New York University**
--- Communicated with school administration regarding audit progress, assisted applicants navigate and troubleshoot applications
+-- Imported university-wide survey data from database into python scripts, notebook, Tableau, and Excel   
+-- Wrote Python Scripts to clean NYU Alumni employment datasets and analyze Alumni’s recent career trajectory   
+**Software Engineering/Machine Learning Intern | SuperFun Technologies Ltd, Chengdu, China**   
+-- Employed Linear Regression, Decision Trees, Random Forest, and SVM techniques to analyze ICU patients' post-surgical recovery data, enhancing understanding of recovery predictors.    
+-- Partnered with an Emergency Room physician to analyze data and co-author a section of the hospital’s post-surgery patient care handbook, improving patient outcomes.   
+-- Worked on a project close to the company's actual multi-functional SaaS platform for a diverse team, optimizing food ordering, ingredient purchasing, and delivery processes. Technologies used include Spring Boot, Maven, Redis, MyBatis, Vue3, and Nacos.   
+**Graduate Assistant | New York University**    
+-- Communicated with school administration regarding audit progress, assisted applicants navigate and troubleshoot applications   
 
 ## Projects
 ### Generative Adversarial Network training on CelebA      
