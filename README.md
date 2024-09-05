@@ -10,6 +10,11 @@
 - B.A., Math and Political Science (double major) | Hamilton College   
 
 ## Work Experience 
+**Artificial Intelligence Intern | Wade Trim**   
+-- Enhanced the ChatBot project by integrating LLM APIs, RAG, and LangChain technologies to accurately respond to queries from selected PDFs and websites.
+-- Designed new ChatBot interfaces using Figma and mapped out the backend workflow with LucidChart.
+-- Collaborated with AI and SWE teams to brainstorm innovative and feasible AI products, actively participating in the coding and design processes using Jiva and Confluence.
+
 **Student Data Engineer | New York University**   
 -- Imported university-wide survey data from database into python scripts, notebook, Tableau, and Excel   
 -- Wrote Python Scripts to clean NYU Alumni employment datasets and analyze Alumni’s recent career trajectory   
