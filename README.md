@@ -29,6 +29,12 @@
 -- Communicated with school administration regarding Tandon Graduate Admissions audit progress, assisted applicants navigate and troubleshoot applications   
 
 ## Projects
+### NYC Landlord Behavior Data Science Project     
+-- Conducting a comprehensive data science project analyzing NYC landlord behavior by integrating and cross-referencing eviction, 311 complaints, and BBL datasets, uncovering correlations between property-related complaints and eviction rates during and post-COVID.   
+-- Developing advanced visualizations using Plotly and Folium to identify eviction patterns and neighborhood-level influences in NYC.     
+-- Applying k-means clustering to detect significant eviction and complaint data patterns, identifying groups of buildings and neighborhoods with similar risks.     
+-- Performing local indicators of spatial association (LISA) and moral analysis to investigate spatial clustering, uncovering localized eviction trends and their socioeconomic impacts and comparing this method with k-means.    
+
 ### Generative Adversarial Network training on CelebA      
 -- Created and evaluated a range of GAN models for generating realistic images, focused on diverse architectures like DCGAN, WGAN, and Relativistic Gan using the CelebA dataset in a team of 2.   
 -- Conducted detailed experiments, including training variations and optimization techniques, to improve image generation quality and efficiency.    
