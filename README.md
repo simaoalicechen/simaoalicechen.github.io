@@ -9,12 +9,14 @@
 - M.S., Accounting | Fordham University    
 - B.A., Math and Political Science (double major) | Hamilton College   
 
+## Publications
+- **Chen, S.**, Laefer, D. F. (in review). “Critical features and trends from 83,282 eviction records – NYC’s 2017-2024” Housing Policy Debate RHPD-2025-07-0123
+
 ## Work Experience 
 **Artificial Intelligence Intern | Wade Trim**   
 -- Enhanced the ChatBot project by integrating LLM APIs, RAG, and LangChain technologies to accurately respond to queries from selected PDFs and websites   
 -- Designed new ChatBot interfaces using Figma and mapped out the backend workflow with LucidChart       
 -- Collaborated with AI and SWE teams to brainstorm innovative and feasible AI products, actively participating in the coding and design processes using Jiva and Confluence       
-
 
 **Student Data Engineer | New York University**   
 -- Imported university-wide survey data from database into python scripts, notebook, Tableau, and Excel   
@@ -30,13 +32,13 @@
 
 ## Projects
 ### NYC Landlord Behavior Data Science Project     
--- Conducting a comprehensive data science project analyzing NYC landlord behavior by integrating and cross-referencing eviction, 311 complaints, and BBL datasets, uncovering correlations between property-related complaints and eviction rates during and post-COVID.   
--- Developing advanced visualizations using Plotly and Folium to identify eviction patterns and neighborhood-level influences in NYC.     
--- Applying k-means clustering to detect significant eviction and complaint data patterns, identifying groups of buildings and neighborhoods with similar risks.     
--- Performing local indicators of spatial association (LISA) and moral analysis to investigate spatial clustering, uncovering localized eviction trends and their socioeconomic impacts and comparing this method with k-means.    
+- Thoroughly cleaned and analyzed NYC eviction records, building attributes, 311 complaints, social vulnerability data, economic metrics, and gentrification proxies to examine their correlation with NYC eviction trends and patterns 
+- Exhaustively investigated these 60+ potentially contributing factors through longitudinal (Time Series), spatial (ArcGIS), statistical, and machine learning techniques(Random Forest Regression, XGBoost, SHAP values, Linear Regression) at the unit, building, zipcode, and neighborhood level 
+- Concluded that racial composition and socialeconomics were persistent and dominating factors, including historical redlining - Discovered that building types and maintenance were influential, such as buildings with 100 plus annual complaints were 40 times more likely to experince higher evictions; car ownership also appeared to be a previously unconsidered driver, as areas with higher car ownership (much higher expenses than using public transportation) correlated strongly with places with higher eviction rates 
+- Indicated that tightened municipal requirements for rental unit maintenance, inspection, and fines could improve housing quality while decreasing evictions.
 
 ### Generative Adversarial Network training on CelebA      
--- Created and evaluated a range of GAN models for generating realistic images, focused on diverse architectures like DCGAN, WGAN, and Relativistic Gan using the CelebA dataset in a team of 2.   
+-- Created and evaluated a range of GAN models for generating realistic images, focused on diverse architectures like DCGAN, WGAN, and Relativistic GAN using the CelebA dataset in a team of 2.   
 -- Conducted detailed experiments, including training variations and optimization techniques, to improve image generation quality and efficiency.    
 
 ### ResNet Models to train and test on CIFAR-10 image datasets for a Kaggle Competition 
@@ -71,5 +73,3 @@
 -- Road Tripping    
 -- Badminton or any other sports with team spirits    
 -- Running: Brooklyn Beach Half Marathon, 2019; Skunk Cabbage Classic Half Marathon, 2018; Syracuse Empire Half Marathon 2017   
-
-
