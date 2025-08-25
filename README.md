@@ -32,10 +32,10 @@
 
 ## Projects
 ### NYC Eviction Features and Trends from 83,282 records (current status: paper under review)
-- Thoroughly cleaned and analyzed NYC eviction records, building attributes, 311 complaints, social vulnerability data, economic metrics, and gentrification proxies to examine their correlation with NYC eviction trends and patterns 
-- Exhaustively investigated these 60+ potentially contributing factors through longitudinal (Time Series), spatial (ArcGIS), statistical, and machine learning techniques(Random Forest Regression, XGBoost, SHAP values, Linear Regression) at the unit, building, zipcode, and neighborhood level 
-- Concluded that racial composition and socialeconomics were persistent and dominating factors, including historical redlining - Discovered that building types and maintenance were influential, such as buildings with 100 plus annual complaints were 40 times more likely to experince higher evictions; car ownership also appeared to be a previously unconsidered driver, as areas with higher car ownership (much higher expenses than using public transportation) correlated strongly with places with higher eviction rates 
-- Indicated that tightened municipal requirements for rental unit maintenance, inspection, and fines could improve housing quality while decreasing evictions.
+-- Thoroughly cleaned and analyzed NYC eviction records, building attributes, 311 complaints, social vulnerability data, economic metrics, and gentrification proxies to examine their correlation with NYC eviction trends and patterns 
+-- Exhaustively investigated these 60+ potentially contributing factors through longitudinal (Time Series), spatial (ArcGIS), statistical, and machine learning techniques(Random Forest Regression, XGBoost, SHAP values, Linear Regression) at the unit, building, zipcode, and neighborhood level 
+-- Concluded that racial composition and socialeconomics were persistent and dominating factors, including historical redlining - Discovered that building types and maintenance were influential, such as buildings with 100 plus annual complaints were 40 times more likely to experince higher evictions; car ownership also appeared to be a previously unconsidered driver, as areas with higher car ownership (much higher expenses than using public transportation) correlated strongly with places with higher eviction rates 
+-- Indicated that tightened municipal requirements for rental unit maintenance, inspection, and fines could improve housing quality while decreasing evictions.
 
 ### Generative Adversarial Network training on CelebA      
 -- Created and evaluated a range of GAN models for generating realistic images, focused on diverse architectures like DCGAN, WGAN, and Relativistic GAN using the CelebA dataset in a team of 2.   
