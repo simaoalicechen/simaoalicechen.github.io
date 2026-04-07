@@ -10,7 +10,10 @@
 - B.A., Math and Political Science (double major) | Hamilton College   
 
 ## Publications
-- **Chen, S.**, Laefer, D. F. (in review). “Critical features and trends from 83,282 eviction records – NYC’s 2017-2024” Housing Policy Debate RHPD-2025-07-0123
+- 'Human Intervention and Tree Health in NYC: A GMM Analysis' (working paper)
+- 'Citi Bike Station Behavioral Regime Model and Its Application in Rebalancing Operations'(working paper)
+- 'NYC Evictions, Neighborhoods, and Gentrification' (working paper)
+
 
 ## Work Experience 
 **Artificial Intelligence Intern | Wade Trim**   
