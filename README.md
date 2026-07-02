@@ -10,7 +10,7 @@
 - B.A., Math and Political Science (double major) | Hamilton College   
 
 ## Publications
-- Chen, S. Citi Bike Station Behavioral Regime Model and Its Application in Rebalancing Operations. Future Transp. 2026, 6, 143. https://doi.org/10.3390/futuretransp6040143
+- Chen, S. Citi Bike Station Behavioral Regime Model and Its Application in Rebalancing Operations. Future Transp. 2026, 6, 143. https://doi.org/10.3390/futuretransp6040143 [Available online](https://www.mdpi.com/2673-7590/6/4/143)
 - 'NYC Evictions, Neighborhoods, and Gentrification' (working paper)
 - 'Human Intervention and Tree Health in NYC: A GMM Analysis' (working paper)
 
