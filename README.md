@@ -10,9 +10,9 @@
 - B.A., Math and Political Science (double major) | Hamilton College   
 
 ## Publications
-- 'Human Intervention and Tree Health in NYC: A GMM Analysis' (working paper)
-- 'Citi Bike Station Behavioral Regime Model and Its Application in Rebalancing Operations'(working paper)
+- Chen, S. Citi Bike Station Behavioral Regime Model and Its Application in Rebalancing Operations. Future Transp. 2026, 6, 143. https://doi.org/10.3390/futuretransp6040143
 - 'NYC Evictions, Neighborhoods, and Gentrification' (working paper)
+- 'Human Intervention and Tree Health in NYC: A GMM Analysis' (working paper)
 
 
 ## Work Experience 
