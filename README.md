@@ -10,6 +10,7 @@
 - B.A., Math and Political Science (double major) | Hamilton College   
 
 ## Publications
+[Google Scholar](https://scholar.google.com/citations?user=wgCySacAAAAJ&hl=en&oi=ao)
 - Chen, S. Citi Bike Station Behavioral Regime Model and Its Application in Rebalancing Operations. Future Transp. 2026, 6, 143. https://doi.org/10.3390/futuretransp6040143 [Available online](https://www.mdpi.com/2673-7590/6/4/143)
 - Chen, S.A. Clustering Neighborhood Economic Trajectories: Gentrification Stages, Executed Evictions, and Other
 Housing Characteristics in New York City. Urban Sci. 2026, 10, 507. https://doi.org/10.3390/urbansci10090507 [Available online](https://doi.org/10.3390/urbansci10090507)
