@@ -1,7 +1,8 @@
 # PhD Student at NYU Tandon 
 
-**<span style="color:#00008B;">Actively looking for Software Engineer, Research Engineer/Scientist, Data Engineer/Scientist full-time roles anywhere in the U.S.</span>**
-**<span style="color:#00008B;">Tentative PhD defense date: December 2026.</span>**
+**<span style="color:#0969da;">Actively looking for Software Engineer, Research Engineer/Scientist, Data Engineer/Scientist full-time roles anywhere in the U.S.</span>**
+
+**<span style="color:#0969da;">Tentative PhD defense date: December 2026.</span>**
 
 #### Most Relevant Technical Skills: Python, Pytorch, Sklearn, SQL, Machine Learning, and Deep Learning   
 #### Others: Web Development (Java, Vue3), C, C++, AWS, React, Django 
